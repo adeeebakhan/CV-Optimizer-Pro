@@ -1,8 +1,8 @@
-### CV Optimizer Pro
+# CV Optimizer Pro
 An AI-powered web application that analyzes a candidate's CV against a given job description to calculate a matching score, identify skill gaps, and generate an optimized CV in downloadable `.txt` format. Built with React, Next.js, and Tailwind CSS, and integrated with the Google Gemini API.
 
 
-## Key Technical Choices:
+### Key Technical Choices:
 
    # React/Next.js Framework: 
    - The project is built using the Next.js framework . This provides a strong foundation for building a modern web application with server-side rendering capabilities.
@@ -19,7 +19,7 @@ An AI-powered web application that analyzes a candidate's CV against a given job
    # UI Component Library:
    - The extensive list of files under src/components/ui, the use of a UI component library for custom or a popular one like Shadcn UI, based on the file names. This provides pre-built, styled components that accelerate UI development and ensure consistency.
 
-## Handling AI Integration and Parsing Responses:
+### Handling AI Integration and Parsing Responses:
 
    # Dedicated AI Flows: 
    - The project uses dedicated files and folders for different AI flows (e.g., cv-match-and-score.ts, skill-gap-identification.ts). This modular approach helps manage the complexity of different AI tasks.
@@ -28,14 +28,14 @@ An AI-powered web application that analyzes a candidate's CV against a given job
    # Schema Definition:
    - The prompt definition also includes input and output schemas. Project uses schemas to define the expected input and output formats for AI interactions. This helps ensure that the data sent to and received from the AI is structured correctly, making parsing and  processing easier.
 
-## Specific Tailwind CSS Techniques for Responsiveness:
+### Specific Tailwind CSS Techniques for Responsiveness:
 
   # Utility Classes: 
   -Tailwind's utility-first approach naturally supports responsiveness through responsive prefixes (e.g., sm:, md:, lg:). These prefixes allow applying different styles based on screen size. While not explicitly shown in the provided snippets, this is a core aspect of using Tailwind for responsive design.
   # Flexbox and Grid: 
   - Tailwind provides utility classes for Flexbox and Grid layouts, which are essential for creating responsive layouts that adapt to different screen sizes.
 
-## Significant Challenges and How They Might Have Been Overcome:
+### Significant Challenges and How They Might Have Been Overcome:
 
   # AI Response Parsing and Handling Errors: 
   - AI models can sometimes return responses that are not in the expected format or contain unexpected data. A challenge would be robustly parsing these responses and handling potential errors or inconsistencies. This could be overcome by:
