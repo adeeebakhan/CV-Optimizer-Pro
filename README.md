@@ -1,4 +1,4 @@
-## CV Optimizer Pro
+### CV Optimizer Pro
 An AI-powered web application that analyzes a candidate's CV against a given job description to calculate a matching score, identify skill gaps, and generate an optimized CV in downloadable `.txt` format. Built with React, Next.js, and Tailwind CSS, and integrated with the Google Gemini API.
 
 
@@ -162,10 +162,10 @@ powershell
 npm install
 
 # Alternative: If you prefer using yarn
-# yarn install
+ yarn install
 
 # Alternative: If you prefer using pnpm
-# pnpm install
+ pnpm install
 
 
 # Step 3: Set Up Environment Variables
