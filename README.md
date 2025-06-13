@@ -40,6 +40,8 @@ A Skill Gap Analysis
 
 An Optimized CV in .txt format that you can download.
 
+Gives Personalized Learning Recommendations.
+
 ## Screenshot
 ![Screenshot 2025-06-13 112511](https://github.com/user-attachments/assets/0cf4c558-104b-4d50-ab18-f883f448ae72)
 ![Screenshot 2025-06-13 112530](https://github.com/user-attachments/assets/422b2936-e8c2-4d59-a634-7f1773b4ef67)
