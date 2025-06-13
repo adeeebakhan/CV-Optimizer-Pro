@@ -17,7 +17,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Live Demo
-[Click here to view the deployed app](https://bucolic-douhua-70f7d2.netlify.app/)
+[Click here to view the deployed app](https://cvoptimizerpro.netlify.app/)
 
 
 
